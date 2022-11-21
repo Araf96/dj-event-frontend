@@ -1,9 +1,11 @@
+import Layout from "../../Components/Layout"
+
 export default function EeventPage() {
   return (
-    <div>
+    <Layout>
         <h1>
             My Event
         </h1>
-    </div>
+    </Layout>
   )
 }
